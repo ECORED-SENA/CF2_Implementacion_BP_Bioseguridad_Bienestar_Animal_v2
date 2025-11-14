@@ -3,7 +3,7 @@ export default {
     Name:
       'Gestión integral de la producción avícola: normatividad, bienestar animal y buenas prácticas.',
     Description:
-      'El componente fortalece competencias para aplicar principios técnicos, sanitarios y normativos en la producción de huevos. El aprendiz estudiará bienestar animal, bioseguridad y sanidad avícola según las Resoluciones ICA 3651 de 2014 y 067449 de 2020, promoviendo Buenas Prácticas Avícolas, certificación, trazabilidad y sostenibilidad ética alineada con el Ministerio de Agricultura y la WOAH.',
+      'El componente fortalece competencias para aplicar principios técnicos, sanitarios y normativos en la producción de huevos. El aprendiz estudiará bienestar animal, bioseguridad y sanidad avícola según las Resoluciones ICA 3651 de 2014 y 067449 de 2020, promoviendo Buenas Prácticas Avícolas, certificación, trazabilidad y sostenibilidad ética alineada con el Ministerio de Agricultura y la <em>WOAH</em>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -323,7 +323,7 @@ export default {
     {
       tema: 'Bienestar animal en aves de postura: sistemas',
       referencia:
-        'Organización Mundial de Sanidad Animal (WOAH). (2024). <em>Código sanitario para los animales terrestres: Capítulo sobre bienestar animal</em>. Documento técnico / Manual.',
+        'Organización Mundial de Sanidad Animal (<em>WOAH</em>). (2024). <em>Código sanitario para los animales terrestres: Capítulo sobre bienestar animal</em>. Documento técnico / Manual.',
       tipo: 'Documento técnico / Manual',
       link:
         'https://www.woah.org/fileadmin/Home/esp/Health_standards/tahc/current/es_titre_1.7.htm',
@@ -456,7 +456,7 @@ export default {
     },
     {
       referencia:
-        'Farm Animal Welfare Council (FAWC). (1965). <em>Report on the Welfare of Animals Kept under Intensive Livestock Husbandry Systems.</em> London: Her Majesty’s Stationery Office.',
+        '<em>Farm Animal Welfare Council (FAWC)</em>. (1965). <em>Report on the Welfare of Animals Kept under Intensive Livestock Husbandry Systems.</em> London: Her Majesty’s Stationery Office.',
       link: '',
     },
     {
@@ -511,17 +511,17 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial de Sanidad Animal (WOAH). (2019). <em>Código Sanitario para los Animales Terrestres.</em> París: WOAH.',
+        'Organización Mundial de Sanidad Animal (<em>WOAH</em>). (2019). <em>Código Sanitario para los Animales Terrestres.</em> París: <em>WOAH</em>.',
       link: '',
     },
     {
       referencia:
-        'Organización Mundial de Sanidad Animal (WOAH). (2023). <em>Guías de Bienestar Animal.</em> París: WOAH.',
+        'Organización Mundial de Sanidad Animal (<em>WOAH</em>). (2023). <em>Guías de Bienestar Animal.</em> París: <em>WOAH</em>.',
       link: '',
     },
     {
       referencia:
-        'Organización Mundial de Sanidad Animal (WOAH). (2024). <em>Normas sobre el bienestar y la sintiencia animal.</em> París: WOAH.',
+        'Organización Mundial de Sanidad Animal (<em>WOAH</em>). (2024). <em>Normas sobre el bienestar y la sintiencia animal.</em> París: <em>WOAH</em>.',
       link: '',
     },
     {

@@ -7,7 +7,7 @@
         span 3
       h1 La sintiencia animal
     
-    p.mb-5 La sintiencia animal es un concepto central en el bienestar animal moderno. Se refiere a la capacidad de los animales para percibir y experimentar sensaciones y emociones como el dolor, el placer, el miedo, la alegría o el bienestar. Esta capacidad implica consciencia y subjetividad, es decir, el animal siente y reacciona conscientemente ante su entorno. No se trata solo de respuestas reflejas o instintivas, sino de procesos cognitivos y emocionales complejos. En el caso específico de las aves de postura (Gallus gallus domesticus), la evidencia científica menciona que poseen una vida mental avanzada, con habilidades tales como:
+    p.mb-5 La sintiencia animal es un concepto central en el bienestar animal moderno. Se refiere a la capacidad de los animales para percibir y experimentar sensaciones y emociones como el dolor, el placer, el miedo, la alegría o el bienestar. Esta capacidad implica consciencia y subjetividad, es decir, el animal siente y reacciona conscientemente ante su entorno. No se trata solo de respuestas reflejas o instintivas, sino de procesos cognitivos y emocionales complejos. En el caso específico de las aves de postura (<em>Gallus gallus domesticus</em>), la evidencia científica menciona que poseen una vida mental avanzada, con habilidades tales como:
 
     .bg-full-width.bg-color-5
       .px-4.px-md-5
@@ -38,8 +38,8 @@
                         p.mb-0 Expresión de emociones como empatía y frustración.
                       li.d-flex
                         i.fas.fa-circle-check.bg-color-6
-                        p.mb-0 Preferencias ambientales claras (como elegir nidos oscuros o camas secas)
-            p Según la Organización Mundial de Sanidad Animal (WOAH, 2024), las aves son seres capaces de sentir dolor y placer, por lo tanto, cualquier sistema de producción debe reconocer y respetar esa capacidad como base del bienestar animal.
+                        p.mb-0 Preferencias ambientales claras (como elegir nidos oscuros o camas secas).
+            p Según la Organización Mundial de Sanidad Animal (<em>WOAH</em>, 2024), las aves son seres capaces de sentir dolor y placer; por lo tanto, cualquier sistema de producción debe reconocer y respetar esa capacidad como base del bienestar animal.
 
     separador
     
@@ -95,7 +95,7 @@
                 img(src="@/assets/curso/tema3/7.png")
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 Manejo diario
-              p Minimizar estrés mediante interacciones cuidadosas.  
+              p Manejar el estrés mediante interacciones cuidadosas.  
               p <b>Ejemplos prácticos</b> Capacitación del personal en etología y manejo calmo.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.order-2

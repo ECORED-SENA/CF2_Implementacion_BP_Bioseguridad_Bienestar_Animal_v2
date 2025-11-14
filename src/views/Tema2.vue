@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p.mb-0 El bienestar animal en aves de postura se aborda desde dos marcos conceptuales complementarios: el modelo clásico de las Cinco Libertades, formulado por el Farm Animal Welfare Council (FAWC, 1965), y el modelo contemporáneo de los Cinco Dominios, desarrollado por Mellor et al. (2015) y adoptado por la WOAH (2021).
+        p.mb-0 El bienestar animal en aves de postura se aborda desde dos marcos conceptuales complementarios: el modelo clásico de las Cinco Libertades, formulado por el <em>Farm Animal Welfare Council</em> (<em>FAWC</em>, 1965), y el modelo contemporáneo de los Cinco Dominios, desarrollado por Mellor et al. (2015) y adoptado por la <em>WOAH</em> (2021).
     
     p.mb-5 Ambos marcos se articulan en la evaluación integral del bienestar, ya que las libertades establecen los principios éticos mínimos, mientras que los dominios permiten analizar el impacto de cada dimensión física sobre el estado emocional del animal.
 
@@ -54,7 +54,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Aplicación práctica por libertad y sistema de producción
     
-    p.mb-5 La aplicación efectiva de cada libertad en los distintos sistemas de producción permite adaptar el bienestar animal a las condiciones reales del entorno, asegurando que las aves vivan con salud, confort y dignidad, sin comprometer su expresión natural ni su integridad física o emocional
+    p.mb-5 La aplicación efectiva de cada libertad en los distintos sistemas de producción permite adaptar el bienestar animal a las condiciones reales del entorno, asegurando que las aves vivan con salud, confort y dignidad, sin comprometer su expresión natural ni su integridad física o emocional.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -97,7 +97,7 @@
                     td Agua contaminada, deficiencia nutricional
 
         
-        p.mb-5 La deficiencia en agua o alimento genera estrés fisiológico, reduce la producción de huevo y afecta la salud ósea. El bienestar comienza con una nutrición adecuada (FAWC, WOAH, 2021).
+        p.mb-5 La deficiencia en agua o alimento genera estrés fisiológico, reduce la producción de huevo y afecta la salud ósea. El bienestar comienza con una nutrición adecuada (<em>FAWC</em>, <em>WOAH</em>, 2021).
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -138,7 +138,7 @@
                     td Golpes de calor o frío, riesgo de depredadores
 
     
-    p.mb-5 El confort físico tiene un efecto directo en la salud y la estabilidad del comportamiento. La WOAH (2019) destaca la importancia de un ambiente seguro y controlado.
+    p.mb-5 El confort físico tiene un efecto directo en la salud y la estabilidad del comportamiento. La <em>WOAH</em> (2019) destaca la importancia de un ambiente seguro y controlado.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -268,7 +268,7 @@
         p(data-aos="fade-left") El bienestar emocional influye en la productividad y en la relación humano-animal. En Colombia, la Ley 1774 de 2016 establece como deber legal el “trato digno y sin crueldad” hacia los animales.
     
         .bg-color-2.p-4(data-aos="fade-left").mb-3
-          p.mb-0 La combinación de las cinco libertades y los cinco dominios ofrece una visión integral y complementaria del bienestar animal. mientras las libertades representan compromisos éticos universales, los dominios permiten una evaluación más precisa y multidimensional, considerando los impactos físicos y mentales en las aves.
+          p.mb-0 La combinación de las cinco libertades y los cinco dominios ofrece una visión integral y complementaria del bienestar animal.Mientras las libertades representan compromisos éticos universales, los dominios permiten una evaluación más precisa y multidimensional, considerando los impactos físicos y mentales en las aves.
         .row.align-items-center
           .col-lg-auto
             img(src="@/assets/curso/tema2/3.svg", style="max-width: 90px").mx-auto
@@ -283,7 +283,7 @@
     .row.mb-5.align-items-center
       .col-lg-5.mb-3.mb-lg-0
         .bg-color-2.tarjeta.py-5.px-4.h-100(data-aos="fade-left")
-          p(data-aos="fade-left").mb-0 El modelo de los Cinco dominios, desarrollado por David Mellor y colaboradores, representa una evolución científica en la comprensión del bienestar animal. A diferencia del modelo de las Cinco Libertades, que se enfoca en evitar el sufrimiento, este enfoque también promueve experiencias positivas, como el confort, el placer y la satisfacción conductual.
+          p(data-aos="fade-left").mb-0 El modelo de los cinco dominios, desarrollado por David Mellor y colaboradores, representa una evolución científica en la comprensión del bienestar animal. A diferencia del modelo de las cinco libertades, que se enfoca en evitar el sufrimiento, este enfoque también promueve experiencias positivas, como el confort, el placer y la satisfacción conductual.
       .col-lg-3.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/4.png" data-aos="zoom-in")
@@ -454,7 +454,7 @@
                     td Estado mental
                     td Refleja el equilibrio emocional y psicológico.
 
-        p.mb-5 Las cinco libertades establecen condiciones mínimas de bienestar, mientras que los Cinco Dominios permiten valorar cómo se siente realmente el animal y si experimenta emociones positivas. Ambos modelos son complementarios y pueden aplicarse simultáneamente en certificaciones de bienestar animal (ICA, 2024). El manejo responsable de aves de postura, ya sea en jaula, piso o traspatio, debe considerar ambos marcos de referencia:
+        p.mb-5 Las cinco libertades establecen condiciones mínimas de bienestar, mientras que los cinco dominios permiten valorar cómo se siente realmente el animal y si experimenta emociones positivas. Ambos modelos son complementarios y pueden aplicarse simultáneamente en certificaciones de bienestar animal (ICA, 2024). El manejo responsable de aves de postura, ya sea en jaula, piso o traspatio, debe considerar ambos marcos de referencia:
 
         .row.justify-content-center
           .col-lg-8
@@ -524,7 +524,7 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Las Cinco libertades están reconocidas como base ética en la Ley 1774 de 2016 y el Decreto 2113 de 2017, bajo el principio de trato digno y respeto hacia los animales.
+                    p.mb-0 Las cinco libertades están reconocidas como base ética en la Ley 1774 de 2016 y el Decreto 2113 de 2017, bajo el principio de trato digno y respeto hacia los animales.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
                     p.mb-0 Los principios del bienestar animal constituyen el soporte técnico de la Resolución ICA 16409 de 2024, donde se definen metodologías, indicadores y procedimientos de certificación.
@@ -572,7 +572,7 @@
                     td Específica por especie (aves, bovinos, porcinos).
                   tr.bg-color-sintesis
                     td Base normativa
-                    td Ley 1774/2016, FAWC (1965).
+                    td Ley 1774/2016, <em>FAWC</em> (1965).
                     td Decreto 2113/2017, Resolución ICA 16409/2024, Manual MADR 2020.
                   tr
                     td Orientación

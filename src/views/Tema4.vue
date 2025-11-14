@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Colombia ha logrado importantes avances en la construcción de un marco legal sólido para el bienestar animal, alineado con las directrices internacionales de la Organización Mundial de Sanidad Animal (WOAH) y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Este marco está compuesto por leyes, decretos, resoluciones y manuales técnicos que regulan todas las etapas del ciclo productivo, desde el alojamiento hasta el sacrificio, incluyendo la certificación del bienestar animal en aves de postura.
+        p.mb-0 Colombia ha logrado importantes avances en la construcción de un marco legal sólido para el bienestar animal, alineado con las directrices internacionales de la Organización Mundial de Sanidad Animal (<em>WOAH</em>) y la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Este marco está compuesto por leyes, decretos, resoluciones y manuales técnicos que regulan todas las etapas del ciclo productivo, desde el alojamiento hasta el sacrificio, incluyendo la certificación del bienestar animal en aves de postura.
     
     separador
     
@@ -184,7 +184,7 @@
       .col-lg-4.mb-3.mb-lg-0
         .tarjeta.bg-color-11.h-100
           .bg-color-10.px-4.px-lg-5.py-3.rounded-top
-            h4.mb-0.text-center WOAH (2024)
+            h4.mb-0.text-center <em>WOAH</em> (2024)
           p.mb-0.p-4 Define el bienestar como componente sanitario clave.
 
       .col-lg-4.mb-3.mb-lg-0
@@ -225,7 +225,7 @@
             .bg-color-9.p-4.mb-3(data-aos="fade-left")
               p.mb-0 Menor mortalidad y uso de medicamentos veterinarios.
     
-    p.mb-5 Colombia avanza hacia una avicultura ética y sostenible, integrando ciencia, legislación y práctica productiva, en línea con los principios de la WOAH y la FAO, y consolidándose como líder en bienestar animal en América Latina.
+    p.mb-5 Colombia avanza hacia una avicultura ética y sostenible, integrando ciencia, legislación y práctica productiva, en línea con los principios de la <em>WOAH</em> y la FAO, y consolidándose como líder en bienestar animal en América Latina.
 
 
 

@@ -186,7 +186,7 @@
                 th.bg-color-7 Protección contra
             tbody.bg-color-white
               tr.bg-color-sintesis
-                td Enfermedad de Newcastle
+                td Enfermedad de <em>Newcastle</em>
                 td Vacuna viva La Sota o B1
                 td Día 1
                 td Ocular o spray
@@ -194,7 +194,7 @@
                 td Paramixovirus aviar.
               tr
                 td Bronquitis infecciosa
-                td Cepa Massachusetts o H120
+                td Cepa <em>Massachusetts</em> o H120
                 td Día 1
                 td Ocular o spray
                 td 1 gota / refuerzo a 4 y 8 semanas
@@ -214,8 +214,8 @@
                 td 1 dosis / refuerzo cada 6-9 meses
                 td Virus de viruela aviar.
               tr.bg-color-sintesis
-                td Enfermedad de Marek
-                td Vacuna HVT o Rispens
+                td Enfermedad de <em>Marek</em>
+                td Vacuna HVT o <em>Rispens</em>
                 td Día 1 (incubadora)
                 td Subcutánea (cuello)
                 td 0.2 ml / sin refuerzo
@@ -226,7 +226,7 @@
                 td 8-10 semanas
                 td Subcutánea o intramuscular
                 td 0.5 ml / refuerzo a las 4 semanas
-                td Avibacterium paragallinarum.
+                td <em>Avibacterium paragallinarum</em>.
               tr.bg-color-sintesis
                 td Salmonelosis (S. enteritidis)
                 td Vacuna inactivada
@@ -437,7 +437,7 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Tabla 20.
-              span Plan sanitario según la etapa productiva en aves de postur
+              span Plan sanitario según la etapa productiva en aves de postura
 
             .tabla-a.color-acento-contenido.mb-5
               table

@@ -25,7 +25,7 @@
                   .p-4
                     p.mb-0(data-aos="fade-up") Este concepto va más allá de la mera productividad o supervivencia: implica que las aves experimenten una vida de calidad, con estímulos positivos y mínimas restricciones. En la producción avícola moderna, la relación entre bienestar y productividad es directa: aves sanas y sin estrés presentan mejor conversión alimenticia, mayor persistencia de postura, mejor calidad de cáscara y menor mortalidad.
             
-            p Según la Organización Mundial de Sanidad Animal (WOAH, 2023), el bienestar se evalúa con base en cinco dominios: nutrición, ambiente físico, salud, comportamiento y estado mental. Este enfoque permite valorar no solo la ausencia de sufrimiento, sino también la presencia de estados positivos como el confort y la satisfacción.
+            p Según la Organización Mundial de Sanidad Animal (<em>WOAH</em>, 2023), el bienestar se evalúa con base en cinco dominios: nutrición, ambiente físico, salud, comportamiento y estado mental. Este enfoque permite valorar no solo la ausencia de sufrimiento, sino también la presencia de estados positivos como el confort y la satisfacción.
         
         separador
         
@@ -53,7 +53,7 @@
                   p.mb-0 Hueso de la quilla.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 <em>Pododermatitis.</em>
+                  p.mb-0 Pododermatitis.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
                   p.mb-0 Daños en plumaje y piel. 
@@ -117,7 +117,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Metodología nacional del ICA
     
-    p.mb-5 El ICA desarrolló una metodología oficial para evaluar el bienestar en sistemas de jaula, piso, pastoreo y traspatio. Esta metodología se encuentra detallada en la Forma ICA 3-1669 V.1 y clasifica las granjas en cuatro niveles:
+    p.mb-5 El ICA desarrolló una metodología oficial para evaluar el bienestar en sistemas de jaula, piso, pastoreo y traspatio. Esta metodología se encuentra detallada en el formato ICA 3-1669 V.1 y clasifica las granjas en cuatro niveles:
     
     .bg-full-width.bg-color-5
       .px-4.px-md-5
@@ -327,7 +327,7 @@
                   .p-4
                     p.mb-0 El bienestar animal en aves de postura es una condición esencial en cualquier sistema, desde los más tecnificados hasta los familiares. Gracias a la metodología del ICA (Forma 3-1669 V.1), es posible establecer parámetros claros, verificables y adaptados a cada realidad productiva.
     
-    p.mb-5 Este compromiso responde no solo a normativas internacionales (WOAH) y nacionales (Resolución ICA 16409 de 2024, MADR 253 de 2020), sino también a una tendencia global hacia un consumo responsable donde la producción de huevo se asocia con salud, ética y calidad de vida animal.
+    p.mb-5 Este compromiso responde no solo a normativas internacionales (<em>WOAH</em>) y nacionales (Resolución ICA 16409 de 2024, MADR 253 de 2020), sino también a una tendencia global hacia un consumo responsable donde la producción de huevo se asocia con salud, ética y calidad de vida animal.
 
     separador
     
@@ -353,7 +353,7 @@
           .p-4
             p.mb-0 Los principios del bienestar animal son fundamentos técnicos, éticos y científicos que orientan el manejo responsable de las aves, garantizando su salud, confort y capacidad de expresar comportamientos naturales dentro de los sistemas de producción.
     
-    p.mb-5 A diferencia de las Cinco Libertades, estos principios no se limitan a consideraciones morales, sino que establecen criterios objetivos, medibles y verificables que permiten evaluar y certificar el bienestar animal con base en evidencia.
+    p.mb-5 A diferencia de las cinco libertades, estos principios no se limitan a consideraciones morales, sino que establecen criterios objetivos, medibles y verificables que permiten evaluar y certificar el bienestar animal con base en evidencia.
 
     .row.justify-content-center
       .col-lg-10

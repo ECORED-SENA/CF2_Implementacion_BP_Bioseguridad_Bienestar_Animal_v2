@@ -25,7 +25,7 @@
               img(src="@/assets/curso/intro/2.svg", data-aos="zoom-in")
           .col-lg-10
             .bg-color-1.p-4
-              p(data-aos="fade-left").mb-0 Este componente impulsa una visión de la avicultura centrada en la sostenibilidad, la ética y la trazabilidad. Asimismo, promueve el cumplimiento de los lineamientos establecidos por el Ministerio de Agricultura y Desarrollo Rural y la Organización Mundial de Sanidad Animal (WOAH), fortaleciendo la competitividad y el compromiso ambiental del sector avícola colombiano.
+              p(data-aos="fade-left").mb-0 Este componente impulsa una visión de la avicultura centrada en la sostenibilidad, la ética y la trazabilidad. Asimismo, promueve el cumplimiento de los lineamientos establecidos por el Ministerio de Agricultura y Desarrollo Rural y la Organización Mundial de Sanidad Animal (<em>WOAH</em>), fortaleciendo la competitividad y el compromiso ambiental del sector avícola colombiano.
         
 
 </template>

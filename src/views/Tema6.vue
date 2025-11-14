@@ -42,7 +42,7 @@
               h3.mb-1 Protocolos obligatorios en granjas de postura según la resolución ICA 3651 de 2014
               p.text-small Se invita a leer el documento Protocolos obligatorios en granjas de postura según la resolución ICA 3651 de 2014, donde se aborda el conjunto de procedimientos exigidos por el Instituto Colombiano Agropecuario (ICA) para la certificación de las granjas avícolas bioseguras.  
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -329,7 +329,7 @@
                     ul.lista-ul--color
                       li.d-flex
                         i.fas.fa-circle-check.bg-color-6
-                        p.mb-0 Suspensión de la Certificación de granja biosegura.
+                        p.mb-0 Suspensión de la certificación de granja biosegura.
                       li.d-flex
                         i.fas.fa-circle-check.bg-color-6
                         p.mb-0 Aplicación de medidas administrativas (advertencias, cierres temporales).
@@ -506,7 +506,7 @@
               h3.mb-1 Certificación ICA postura
               p.text-small Se invita a leer el documento Certificación ICA postura, donde se aborda el proceso de certificación como Granja Avícola Biosegura exigido por el Instituto Colombiano Agropecuario (ICA).   
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
