@@ -482,25 +482,30 @@
     
     p.mb-5 A continuación, se presenta un pódcast que compara las cinco libertades y los principios del bienestar animal, destacando sus diferencias conceptuales, metodológicas y normativas en el manejo de aves de postura. Este análisis permite comprender cómo ambos enfoques se complementan para garantizar un bienestar animal real, ético y científicamente fundamentado.
 
-    .row.mb-5
-      .col-lg-5.order-lg-2.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema2/20.png", data-aos="zoom-in")
-      .col-lg-7.order-lg-1
-        .bg-color-15.tarjeta.mb-5
-          .p-4
-            .row.justify-content-center.align-items-center
-              .col-lg-5.mb-3.mb-lg-0
-                figure
-                  img(src="@/assets/curso/tema2/21.svg", data-aos="zoom-in")
-              .col-lg-7.mb-3.mb-lg-0
-                h2(data-aos="fade-left").text-white.mb-4 Pódcast
+    .bg-figure.mb-4
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eO91rfrwBC8?si=D-ST5OZAFqlHJBER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
+    //- .row.mb-5
+    //-   .col-lg-5.order-lg-2.mb-3.mb-lg-0
+    //-     figure
+    //-       img(src="@/assets/curso/tema2/20.png", data-aos="zoom-in")
+    //-   .col-lg-7.order-lg-1
+    //-     .bg-color-15.tarjeta.mb-5
+    //-       .p-4
+    //-         .row.justify-content-center.align-items-center
+    //-           .col-lg-5.mb-3.mb-lg-0
+    //-             figure
+    //-               img(src="@/assets/curso/tema2/21.svg", data-aos="zoom-in")
+    //-           .col-lg-7.mb-3.mb-lg-0
+    //-             h2(data-aos="fade-left").text-white.mb-4 Pódcast
         
-                TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-                  texto="Cinco libertades y principios del bienestar animal: enfoques complementarios en la producción de aves de postura"
-                  tiempo
-                  :audio="require('../assets/curso/podcast/podcast1.mp3')"
-                )
+    //-             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
+    //-               texto="Cinco libertades y principios del bienestar animal: enfoques complementarios en la producción de aves de postura"
+    //-               tiempo
+    //-               :audio="require('../assets/curso/podcast/podcast1.mp3')"
+    //-             )
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
